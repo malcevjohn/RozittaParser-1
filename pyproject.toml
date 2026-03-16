@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "python-docx>=1.1.2",
     "pyside6>=6.10.2",
+    "telethon>=1.42.0",
+    "pytest>=9.0.2",
 ]
